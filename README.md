@@ -15,22 +15,7 @@ pip install -r requirements.txt
 ```
 * Located in ```/config```
 
-For Linux:
-* ffmpeg
-* libffi-dev 
-* libnacl-dev 
 
-### Installing - Self hosting
-
-1. Download release if available, alternatively download repository zip
-2. Complete Prerequisites
-3. Start ```run.py``` in project root
-4. See configuration options in /config/config.py
-
-Button play plugin:
-* Set emoji with the setting command to enable this feature
-* Emote must be in same server as bot
-* Needs Manage Message permissions
 
 Custom Cookies:
 * Extract cookies.txt from you browser using your preferred method
